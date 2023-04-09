@@ -37,9 +37,22 @@ func main() {
 			panic(err)
 		}
 
+		// sort the releases by region alias names
 		sort.Slice(response.Regions, func(i, j int) bool {
 			return *response.Regions[i].Alias < *response.Regions[j].Alias
 		})
+
+		// remove release notes, lots of noise in updating those links
+		// we can always find the release notes for a build by going to
+		// Azure release page
+		for _, region := range response.Regions {
+			if region.Current != nil {
+				region.Current.ReleaseNote = nil
+			}
+			for _, recent := range region.Recent {
+				recent.ReleaseNote = nil
+			}
+		}
 
 		fileName := fmt.Sprintf("output/%s.data.json", key)
 		file, err := os.Create(fileName)
