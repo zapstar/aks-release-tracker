@@ -1,0 +1,86 @@
+[
+    {
+        "Name": "China East 2",
+        "Alias": "chinaeast2",
+        "Continent": "Asia",
+        "BatchIndex": 9,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230319"
+        },
+        "Recent": [
+            {
+                "Version": "v20230226"
+            },
+            {
+                "Version": "v20230219"
+            },
+            {
+                "Version": "v20230212"
+            }
+        ]
+    },
+    {
+        "Name": "China East 3",
+        "Alias": "chinaeast3",
+        "Continent": "Asia",
+        "BatchIndex": 10,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230319"
+        },
+        "Recent": [
+            {
+                "Version": "v20230226"
+            },
+            {
+                "Version": "v20230219"
+            },
+            {
+                "Version": "v20230212"
+            }
+        ]
+    },
+    {
+        "Name": "China North 2",
+        "Alias": "chinanorth2",
+        "Continent": "Asia",
+        "BatchIndex": 8,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230319"
+        },
+        "Recent": [
+            {
+                "Version": "v20230226"
+            },
+            {
+                "Version": "v20230219"
+            },
+            {
+                "Version": "v20230212"
+            }
+        ]
+    },
+    {
+        "Name": "China North 3",
+        "Alias": "chinanorth3",
+        "Continent": "Asia",
+        "BatchIndex": 9,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230319"
+        },
+        "Recent": [
+            {
+                "Version": "v20230226"
+            },
+            {
+                "Version": "v20230219"
+            },
+            {
+                "Version": "v20230212"
+            }
+        ]
+    }
+]

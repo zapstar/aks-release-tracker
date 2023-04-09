@@ -1,0 +1,989 @@
+[
+    {
+        "Name": "Australia Central",
+        "Alias": "australiacentral",
+        "Continent": "Asia",
+        "BatchIndex": 4,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230402"
+        },
+        "Recent": [
+            {
+                "Version": "v20230326"
+            },
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            }
+        ]
+    },
+    {
+        "Name": "Australia Central 2",
+        "Alias": "australiacentral2",
+        "Continent": "Asia",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Australia East",
+        "Alias": "australiaeast",
+        "Continent": "Asia",
+        "BatchIndex": 4,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230402"
+        },
+        "Recent": [
+            {
+                "Version": "v20230326"
+            },
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            }
+        ]
+    },
+    {
+        "Name": "Australia Southeast",
+        "Alias": "australiasoutheast",
+        "Continent": "Asia",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Brazil South",
+        "Alias": "brazilsouth",
+        "Continent": "US",
+        "BatchIndex": 5,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Brazil Southeast",
+        "Alias": "brazilsoutheast",
+        "Continent": "US",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Canada Central",
+        "Alias": "canadacentral",
+        "Continent": "US",
+        "BatchIndex": 5,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Canada East",
+        "Alias": "canadaeast",
+        "Continent": "US",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Central India",
+        "Alias": "centralindia",
+        "Continent": "Asia",
+        "BatchIndex": 5,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Central US",
+        "Alias": "centralus",
+        "Continent": "US",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "East Asia",
+        "Alias": "eastasia",
+        "Continent": "Asia",
+        "BatchIndex": 5,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "East US",
+        "Alias": "eastus",
+        "Continent": "US",
+        "BatchIndex": 3,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230402"
+        },
+        "Recent": [
+            {
+                "Version": "v20230326"
+            },
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            }
+        ]
+    },
+    {
+        "Name": "East US 2",
+        "Alias": "eastus2",
+        "Continent": "US",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "France Central",
+        "Alias": "francecentral",
+        "Continent": "Europe",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "France South",
+        "Alias": "francesouth",
+        "Continent": "Europe",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Germany North",
+        "Alias": "germanynorth",
+        "Continent": "Europe",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Germany West Central",
+        "Alias": "germanywestcentral",
+        "Continent": "Europe",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Japan East",
+        "Alias": "japaneast",
+        "Continent": "Asia",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Japan West",
+        "Alias": "japanwest",
+        "Continent": "Asia",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Jio India Central",
+        "Alias": "jioindiacentral",
+        "Continent": "Asia",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Jio India West",
+        "Alias": "jioindiawest",
+        "Continent": "Asia",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Korea Central",
+        "Alias": "koreacentral",
+        "Continent": "Asia",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Korea South",
+        "Alias": "koreasouth",
+        "Continent": "Asia",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "North Central US",
+        "Alias": "northcentralus",
+        "Continent": "US",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "North Europe",
+        "Alias": "northeurope",
+        "Continent": "Europe",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Norway East",
+        "Alias": "norwayeast",
+        "Continent": "Europe",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Norway West",
+        "Alias": "norwaywest",
+        "Continent": "Europe",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Poland Central",
+        "Alias": "polandcentral",
+        "Continent": "Europe",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Qatar Central",
+        "Alias": "qatarcentral",
+        "Continent": "Africa",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "South Africa North",
+        "Alias": "southafricanorth",
+        "Continent": "Africa",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "South Africa West",
+        "Alias": "southafricawest",
+        "Continent": "Africa",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "South Central US",
+        "Alias": "southcentralus",
+        "Continent": "US",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Southeast Asia",
+        "Alias": "southeastasia",
+        "Continent": "Asia",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "South India",
+        "Alias": "southindia",
+        "Continent": "Asia",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Sweden Central",
+        "Alias": "swedencentral",
+        "Continent": "Europe",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Sweden South",
+        "Alias": "swedensouth",
+        "Continent": "Europe",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Switzerland North",
+        "Alias": "switzerlandnorth",
+        "Continent": "Europe",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "Switzerland West",
+        "Alias": "switzerlandwest",
+        "Continent": "Europe",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "UAE Central",
+        "Alias": "uaecentral",
+        "Continent": "Africa",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "UAE North",
+        "Alias": "uaenorth",
+        "Continent": "Africa",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "UK South",
+        "Alias": "uksouth",
+        "Continent": "Europe",
+        "BatchIndex": 2,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230402"
+        },
+        "Recent": [
+            {
+                "Version": "v20230326"
+            },
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            }
+        ]
+    },
+    {
+        "Name": "UK West",
+        "Alias": "ukwest",
+        "Continent": "Europe",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "West Central US",
+        "Alias": "westcentralus",
+        "Continent": "US",
+        "BatchIndex": 1,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230402"
+        },
+        "Recent": [
+            {
+                "Version": "v20230326"
+            },
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            }
+        ]
+    },
+    {
+        "Name": "West Europe",
+        "Alias": "westeurope",
+        "Continent": "Europe",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "West US",
+        "Alias": "westus",
+        "Continent": "US",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "West US 2",
+        "Alias": "westus2",
+        "Continent": "US",
+        "BatchIndex": 6,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    },
+    {
+        "Name": "West US 3",
+        "Alias": "westus3",
+        "Continent": "US",
+        "BatchIndex": 7,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230326"
+        },
+        "Recent": [
+            {
+                "Version": "v20230319"
+            },
+            {
+                "Version": "v20230305"
+            },
+            {
+                "Version": "v20230226"
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "Name": "US Gov Arizona",
+        "Alias": "usgovarizona",
+        "Continent": "US",
+        "BatchIndex": 12,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230319"
+        },
+        "Recent": [
+            {
+                "Version": "v20230226"
+            },
+            {
+                "Version": "v20230219"
+            },
+            {
+                "Version": "v20230212"
+            }
+        ]
+    },
+    {
+        "Name": "US Gov Texas",
+        "Alias": "usgovtexas",
+        "Continent": "US",
+        "BatchIndex": 11,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230319"
+        },
+        "Recent": [
+            {
+                "Version": "v20230226"
+            },
+            {
+                "Version": "v20230219"
+            },
+            {
+                "Version": "v20230212"
+            }
+        ]
+    },
+    {
+        "Name": "US Gov Virginia",
+        "Alias": "usgovvirginia",
+        "Continent": "US",
+        "BatchIndex": 12,
+        "InProgress": false,
+        "Current": {
+            "Version": "v20230319"
+        },
+        "Recent": [
+            {
+                "Version": "v20230226"
+            },
+            {
+                "Version": "v20230219"
+            },
+            {
+                "Version": "v20230212"
+            }
+        ]
+    }
+]
