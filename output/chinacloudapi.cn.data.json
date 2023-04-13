@@ -4,19 +4,19 @@
         "Alias": "chinaeast2",
         "Continent": "Asia",
         "BatchIndex": 9,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230326"
+            "Version": "v20230402"
         },
         "Recent": [
+            {
+                "Version": "v20230326"
+            },
             {
                 "Version": "v20230319"
             },
             {
                 "Version": "v20230226"
-            },
-            {
-                "Version": "v20230219"
             }
         ]
     },
@@ -67,19 +67,19 @@
         "Alias": "chinanorth3",
         "Continent": "Asia",
         "BatchIndex": 9,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230326"
+            "Version": "v20230402"
         },
         "Recent": [
+            {
+                "Version": "v20230326"
+            },
             {
                 "Version": "v20230319"
             },
             {
                 "Version": "v20230226"
-            },
-            {
-                "Version": "v20230219"
             }
         ]
     }
