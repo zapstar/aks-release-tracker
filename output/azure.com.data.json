@@ -888,17 +888,17 @@
         "BatchIndex": 1,
         "InProgress": false,
         "Current": {
-            "Version": "v20230409"
+            "Version": "v20230416"
         },
         "Recent": [
+            {
+                "Version": "v20230409"
+            },
             {
                 "Version": "v20230402"
             },
             {
                 "Version": "v20230326"
-            },
-            {
-                "Version": "v20230319"
             }
         ]
     },
