@@ -88,19 +88,19 @@
         "Alias": "brazilsouth",
         "Continent": "US",
         "BatchIndex": 5,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230409"
+            "Version": "v20230416"
         },
         "Recent": [
+            {
+                "Version": "v20230409"
+            },
             {
                 "Version": "v20230402"
             },
             {
                 "Version": "v20230326"
-            },
-            {
-                "Version": "v20230319"
             }
         ]
     },
@@ -130,19 +130,19 @@
         "Alias": "canadacentral",
         "Continent": "US",
         "BatchIndex": 5,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230409"
+            "Version": "v20230416"
         },
         "Recent": [
+            {
+                "Version": "v20230409"
+            },
             {
                 "Version": "v20230402"
             },
             {
                 "Version": "v20230326"
-            },
-            {
-                "Version": "v20230319"
             }
         ]
     },
@@ -172,19 +172,19 @@
         "Alias": "centralindia",
         "Continent": "Asia",
         "BatchIndex": 5,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230409"
+            "Version": "v20230416"
         },
         "Recent": [
+            {
+                "Version": "v20230409"
+            },
             {
                 "Version": "v20230402"
             },
             {
                 "Version": "v20230326"
-            },
-            {
-                "Version": "v20230319"
             }
         ]
     },
@@ -214,19 +214,19 @@
         "Alias": "eastasia",
         "Continent": "Asia",
         "BatchIndex": 5,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230409"
+            "Version": "v20230416"
         },
         "Recent": [
+            {
+                "Version": "v20230409"
+            },
             {
                 "Version": "v20230402"
             },
             {
                 "Version": "v20230326"
-            },
-            {
-                "Version": "v20230319"
             }
         ]
     },
