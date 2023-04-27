@@ -844,19 +844,19 @@
         "Alias": "uksouth",
         "Continent": "Europe",
         "BatchIndex": 2,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
