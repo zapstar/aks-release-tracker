@@ -258,17 +258,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -279,17 +279,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -342,17 +342,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -363,17 +363,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -426,17 +426,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -447,17 +447,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -489,17 +489,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -510,17 +510,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -531,17 +531,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -594,17 +594,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -613,19 +613,19 @@
         "Alias": "southafricanorth",
         "Continent": "Africa",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -720,17 +720,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -762,17 +762,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -825,17 +825,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -867,17 +867,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
@@ -951,17 +951,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230416"
+            "Version": "v20230423"
         },
         "Recent": [
+            {
+                "Version": "v20230416"
+            },
             {
                 "Version": "v20230409"
             },
             {
                 "Version": "v20230402"
-            },
-            {
-                "Version": "v20230326"
             }
         ]
     },
