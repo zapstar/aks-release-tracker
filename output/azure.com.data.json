@@ -570,7 +570,7 @@
         "Name": "Poland Central",
         "Alias": "polandcentral",
         "Continent": "Europe",
-        "BatchIndex": 6,
+        "BatchIndex": 7,
         "InProgress": false,
         "Current": {
             "Version": "v20230430"
@@ -633,7 +633,7 @@
         "Name": "South Africa West",
         "Alias": "southafricawest",
         "Continent": "Africa",
-        "BatchIndex": 6,
+        "BatchIndex": 7,
         "InProgress": false,
         "Current": {
             "Version": "v20230430"
