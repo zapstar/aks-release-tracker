@@ -27,27 +27,6 @@
         "BatchIndex": 10,
         "InProgress": false,
         "Current": {
-            "Version": "v20230423"
-        },
-        "Recent": [
-            {
-                "Version": "v20230416"
-            },
-            {
-                "Version": "v20230409"
-            },
-            {
-                "Version": "v20230402"
-            }
-        ]
-    },
-    {
-        "Name": "China North 2",
-        "Alias": "chinanorth2",
-        "Continent": "Asia",
-        "BatchIndex": 8,
-        "InProgress": false,
-        "Current": {
             "Version": "v20230430"
         },
         "Recent": [
@@ -59,6 +38,27 @@
             },
             {
                 "Version": "v20230409"
+            }
+        ]
+    },
+    {
+        "Name": "China North 2",
+        "Alias": "chinanorth2",
+        "Continent": "Asia",
+        "BatchIndex": 8,
+        "InProgress": true,
+        "Current": {
+            "Version": "v20230507"
+        },
+        "Recent": [
+            {
+                "Version": "v20230430"
+            },
+            {
+                "Version": "v20230423"
+            },
+            {
+                "Version": "v20230416"
             }
         ]
     },
