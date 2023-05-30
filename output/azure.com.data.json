@@ -90,17 +90,17 @@
         "BatchIndex": 5,
         "InProgress": false,
         "Current": {
-            "Version": "v20230514"
+            "Version": "v20230521"
         },
         "Recent": [
+            {
+                "Version": "v20230514"
+            },
             {
                 "Version": "v20230507"
             },
             {
                 "Version": "v20230430"
-            },
-            {
-                "Version": "v20230423"
             }
         ]
     },
@@ -132,17 +132,17 @@
         "BatchIndex": 5,
         "InProgress": false,
         "Current": {
-            "Version": "v20230514"
+            "Version": "v20230521"
         },
         "Recent": [
+            {
+                "Version": "v20230514"
+            },
             {
                 "Version": "v20230507"
             },
             {
                 "Version": "v20230430"
-            },
-            {
-                "Version": "v20230423"
             }
         ]
     },
@@ -174,17 +174,17 @@
         "BatchIndex": 5,
         "InProgress": false,
         "Current": {
-            "Version": "v20230514"
+            "Version": "v20230521"
         },
         "Recent": [
+            {
+                "Version": "v20230514"
+            },
             {
                 "Version": "v20230507"
             },
             {
                 "Version": "v20230430"
-            },
-            {
-                "Version": "v20230423"
             }
         ]
     },
@@ -216,17 +216,17 @@
         "BatchIndex": 5,
         "InProgress": false,
         "Current": {
-            "Version": "v20230514"
+            "Version": "v20230521"
         },
         "Recent": [
+            {
+                "Version": "v20230514"
+            },
             {
                 "Version": "v20230507"
             },
             {
                 "Version": "v20230430"
-            },
-            {
-                "Version": "v20230423"
             }
         ]
     },
