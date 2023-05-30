@@ -4,19 +4,19 @@
         "Alias": "australiacentral",
         "Continent": "Asia",
         "BatchIndex": 4,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230514"
+            "Version": "v20230521"
         },
         "Recent": [
+            {
+                "Version": "v20230514"
+            },
             {
                 "Version": "v20230507"
             },
             {
                 "Version": "v20230430"
-            },
-            {
-                "Version": "v20230423"
             }
         ]
     },
@@ -46,19 +46,19 @@
         "Alias": "australiaeast",
         "Continent": "Asia",
         "BatchIndex": 4,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230514"
+            "Version": "v20230521"
         },
         "Recent": [
+            {
+                "Version": "v20230514"
+            },
             {
                 "Version": "v20230507"
             },
             {
                 "Version": "v20230430"
-            },
-            {
-                "Version": "v20230423"
             }
         ]
     },
