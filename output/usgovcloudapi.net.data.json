@@ -25,7 +25,7 @@
         "Alias": "usgovtexas",
         "Continent": "US",
         "BatchIndex": 11,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230521"
         },
