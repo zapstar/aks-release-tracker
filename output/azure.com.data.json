@@ -357,6 +357,27 @@
         ]
     },
     {
+        "Name": "Israel Central",
+        "Alias": "israelcentral",
+        "Continent": "Europe",
+        "BatchIndex": 6,
+        "InProgress": true,
+        "Current": {
+            "Version": "v20230611"
+        },
+        "Recent": [
+            {
+                "Version": "v20230604"
+            },
+            {
+                "Version": "v20230528"
+            },
+            {
+                "Version": "v20230521"
+            }
+        ]
+    },
+    {
         "Name": "Italy North",
         "Alias": "italynorth",
         "Continent": "Europe",
