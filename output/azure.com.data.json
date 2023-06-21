@@ -109,7 +109,7 @@
         "Alias": "brazilsoutheast",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230611"
         },
@@ -151,7 +151,7 @@
         "Alias": "canadaeast",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230611"
         },
@@ -508,7 +508,7 @@
         "Alias": "koreasouth",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230611"
         },
@@ -613,7 +613,7 @@
         "Alias": "norwaywest",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230611"
         },
@@ -844,7 +844,7 @@
         "Alias": "switzerlandwest",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230611"
         },
