@@ -951,17 +951,17 @@
         "BatchIndex": 1,
         "InProgress": false,
         "Current": {
-            "Version": "v20230611"
+            "Version": "v20230618"
         },
         "Recent": [
+            {
+                "Version": "v20230611"
+            },
             {
                 "Version": "v20230604"
             },
             {
                 "Version": "v20230528"
-            },
-            {
-                "Version": "v20230521"
             }
         ]
     },
