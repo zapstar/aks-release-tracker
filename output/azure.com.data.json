@@ -88,7 +88,7 @@
         "Alias": "brazilsouth",
         "Continent": "US",
         "BatchIndex": 5,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230611"
         },
@@ -130,7 +130,7 @@
         "Alias": "canadacentral",
         "Continent": "US",
         "BatchIndex": 5,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230611"
         },
@@ -172,7 +172,7 @@
         "Alias": "centralindia",
         "Continent": "Asia",
         "BatchIndex": 5,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230611"
         },
