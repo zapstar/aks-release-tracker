@@ -88,7 +88,7 @@
         "Alias": "brazilsouth",
         "Continent": "US",
         "BatchIndex": 5,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230618"
         },
@@ -130,7 +130,7 @@
         "Alias": "canadacentral",
         "Continent": "US",
         "BatchIndex": 5,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230618"
         },
@@ -174,17 +174,17 @@
         "BatchIndex": 5,
         "InProgress": false,
         "Current": {
-            "Version": "v20230611"
+            "Version": "v20230618"
         },
         "Recent": [
+            {
+                "Version": "v20230611"
+            },
             {
                 "Version": "v20230604"
             },
             {
                 "Version": "v20230528"
-            },
-            {
-                "Version": "v20230521"
             }
         ]
     },
@@ -216,17 +216,17 @@
         "BatchIndex": 5,
         "InProgress": false,
         "Current": {
-            "Version": "v20230611"
+            "Version": "v20230618"
         },
         "Recent": [
+            {
+                "Version": "v20230611"
+            },
             {
                 "Version": "v20230604"
             },
             {
                 "Version": "v20230528"
-            },
-            {
-                "Version": "v20230521"
             }
         ]
     },
