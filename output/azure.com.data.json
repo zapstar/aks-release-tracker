@@ -193,7 +193,7 @@
         "Alias": "centralus",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230611"
         },
@@ -634,7 +634,7 @@
         "Alias": "polandcentral",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230611"
         },
@@ -697,7 +697,7 @@
         "Alias": "southafricawest",
         "Continent": "Africa",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230611"
         },
@@ -718,7 +718,7 @@
         "Alias": "southcentralus",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230611"
         },
@@ -760,7 +760,7 @@
         "Alias": "southindia",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230611"
         },
@@ -970,7 +970,7 @@
         "Alias": "westeurope",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230611"
         },
@@ -991,7 +991,7 @@
         "Alias": "westus",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230611"
         },
