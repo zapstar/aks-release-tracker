@@ -949,19 +949,19 @@
         "Alias": "westcentralus",
         "Continent": "US",
         "BatchIndex": 1,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230625"
+            "Version": "v20230702"
         },
         "Recent": [
+            {
+                "Version": "v20230625"
+            },
             {
                 "Version": "v20230618"
             },
             {
                 "Version": "v20230611"
-            },
-            {
-                "Version": "v20230604"
             }
         ]
     },
