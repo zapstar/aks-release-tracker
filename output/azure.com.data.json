@@ -235,7 +235,7 @@
         "Alias": "eastus",
         "Continent": "US",
         "BatchIndex": 3,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230709"
         },
