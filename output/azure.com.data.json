@@ -256,19 +256,19 @@
         "Alias": "eastus2",
         "Continent": "US",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -279,17 +279,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -342,17 +342,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -363,17 +363,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -384,17 +384,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -405,17 +405,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -468,17 +468,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -489,17 +489,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -531,17 +531,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -552,17 +552,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -573,17 +573,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -594,17 +594,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -657,17 +657,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -678,17 +678,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -783,17 +783,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -823,7 +823,7 @@
         "Alias": "switzerlandnorth",
         "Continent": "Europe",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230709"
         },
@@ -886,7 +886,7 @@
         "Alias": "uaenorth",
         "Continent": "Africa",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230709"
         },
@@ -930,17 +930,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
@@ -1014,17 +1014,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20230702"
+            "Version": "v20230709"
         },
         "Recent": [
+            {
+                "Version": "v20230702"
+            },
             {
                 "Version": "v20230625"
             },
             {
                 "Version": "v20230618"
-            },
-            {
-                "Version": "v20230611"
             }
         ]
     },
