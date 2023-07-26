@@ -298,7 +298,7 @@
         "Alias": "francesouth",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230716"
         },
@@ -319,7 +319,7 @@
         "Alias": "germanynorth",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230716"
         },
@@ -445,7 +445,7 @@
         "Alias": "jioindiacentral",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230716"
         },
@@ -634,7 +634,7 @@
         "Alias": "polandcentral",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230716"
         },
@@ -718,7 +718,7 @@
         "Alias": "southcentralus",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230716"
         },
@@ -865,7 +865,7 @@
         "Alias": "uaecentral",
         "Continent": "Africa",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230716"
         },
@@ -970,7 +970,7 @@
         "Alias": "westeurope",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230716"
         },
@@ -991,7 +991,7 @@
         "Alias": "westus",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230716"
         },
@@ -1033,7 +1033,7 @@
         "Alias": "westus3",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230716"
         },
