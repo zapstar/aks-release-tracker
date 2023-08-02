@@ -4,7 +4,7 @@
         "Alias": "chinaeast2",
         "Continent": "Asia",
         "BatchIndex": 9,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230716"
         },
