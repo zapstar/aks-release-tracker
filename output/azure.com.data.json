@@ -235,19 +235,19 @@
         "Alias": "eastus",
         "Continent": "US",
         "BatchIndex": 3,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230730"
+            "Version": "v20230806"
         },
         "Recent": [
+            {
+                "Version": "v20230730"
+            },
             {
                 "Version": "v20230723"
             },
             {
                 "Version": "v20230716"
-            },
-            {
-                "Version": "v20230709"
             }
         ]
     },
