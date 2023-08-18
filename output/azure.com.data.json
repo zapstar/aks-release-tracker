@@ -424,7 +424,7 @@
         "Alias": "japanwest",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230730"
         },
@@ -508,7 +508,7 @@
         "Alias": "koreasouth",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230730"
         },
