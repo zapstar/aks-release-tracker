@@ -214,7 +214,7 @@
         "Alias": "eastasia",
         "Continent": "Asia",
         "BatchIndex": 5,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230827"
         },
