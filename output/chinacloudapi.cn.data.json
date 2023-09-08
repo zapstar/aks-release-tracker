@@ -6,17 +6,17 @@
         "BatchIndex": 9,
         "InProgress": false,
         "Current": {
-            "Version": "v20230813"
+            "Version": "v20230820"
         },
         "Recent": [
+            {
+                "Version": "v20230813"
+            },
             {
                 "Version": "v20230806"
             },
             {
                 "Version": "v20230730"
-            },
-            {
-                "Version": "v20230723"
             }
         ]
     },
@@ -69,17 +69,17 @@
         "BatchIndex": 9,
         "InProgress": false,
         "Current": {
-            "Version": "v20230813"
+            "Version": "v20230820"
         },
         "Recent": [
+            {
+                "Version": "v20230813"
+            },
             {
                 "Version": "v20230806"
             },
             {
                 "Version": "v20230730"
-            },
-            {
-                "Version": "v20230723"
             }
         ]
     }
