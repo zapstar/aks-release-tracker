@@ -907,7 +907,7 @@
         "Alias": "uksouth",
         "Continent": "Europe",
         "BatchIndex": 2,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230827"
         },
