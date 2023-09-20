@@ -949,7 +949,7 @@
         "Alias": "westcentralus",
         "Continent": "US",
         "BatchIndex": 1,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230910"
         },
