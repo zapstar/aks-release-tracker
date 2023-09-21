@@ -214,19 +214,19 @@
         "Alias": "eastasia",
         "Continent": "Asia",
         "BatchIndex": 5,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230910"
+            "Version": "v20230917"
         },
         "Recent": [
+            {
+                "Version": "v20230910"
+            },
             {
                 "Version": "v20230903"
             },
             {
                 "Version": "v20230827"
-            },
-            {
-                "Version": "v20230820"
             }
         ]
     },
@@ -907,7 +907,7 @@
         "Alias": "uksouth",
         "Continent": "Europe",
         "BatchIndex": 2,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230910"
         },
