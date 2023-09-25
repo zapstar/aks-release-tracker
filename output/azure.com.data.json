@@ -256,7 +256,7 @@
         "Alias": "eastus2",
         "Continent": "US",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230910"
         },
@@ -277,7 +277,7 @@
         "Alias": "francecentral",
         "Continent": "Europe",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230910"
         },
@@ -487,7 +487,7 @@
         "Alias": "koreacentral",
         "Continent": "Asia",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230910"
         },
@@ -571,7 +571,7 @@
         "Alias": "northeurope",
         "Continent": "Europe",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230910"
         },
@@ -928,7 +928,7 @@
         "Alias": "ukwest",
         "Continent": "Europe",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230910"
         },
