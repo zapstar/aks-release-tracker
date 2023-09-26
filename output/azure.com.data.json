@@ -256,7 +256,7 @@
         "Alias": "eastus2",
         "Continent": "US",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230910"
         },
@@ -550,7 +550,7 @@
         "Alias": "northcentralus",
         "Continent": "US",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230910"
         },
@@ -1012,7 +1012,7 @@
         "Alias": "westus2",
         "Continent": "US",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20230910"
         },
