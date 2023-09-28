@@ -25,19 +25,19 @@
         "Alias": "chinaeast3",
         "Continent": "Asia",
         "BatchIndex": 10,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20230827"
+            "Version": "v20230903"
         },
         "Recent": [
+            {
+                "Version": "v20230827"
+            },
             {
                 "Version": "v20230820"
             },
             {
                 "Version": "v20230813"
-            },
-            {
-                "Version": "v20230806"
             }
         ]
     },
