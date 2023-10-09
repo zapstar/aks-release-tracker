@@ -90,17 +90,17 @@
         "BatchIndex": 5,
         "InProgress": false,
         "Current": {
-            "Version": "v20230924"
+            "Version": "v20231001"
         },
         "Recent": [
+            {
+                "Version": "v20230924"
+            },
             {
                 "Version": "v20230917"
             },
             {
                 "Version": "v20230910"
-            },
-            {
-                "Version": "v20230903"
             }
         ]
     },
@@ -130,7 +130,7 @@
         "Alias": "canadacentral",
         "Continent": "US",
         "BatchIndex": 5,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20231001"
         },
@@ -172,7 +172,7 @@
         "Alias": "centralindia",
         "Continent": "Asia",
         "BatchIndex": 5,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20231001"
         },
