@@ -46,7 +46,7 @@
         "Alias": "chinanorth2",
         "Continent": "Asia",
         "BatchIndex": 8,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20230924"
         },
