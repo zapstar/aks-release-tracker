@@ -4,7 +4,7 @@
         "Alias": "australiacentral",
         "Continent": "Asia",
         "BatchIndex": 4,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20231001"
         },
@@ -46,7 +46,7 @@
         "Alias": "australiaeast",
         "Continent": "Asia",
         "BatchIndex": 4,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20231001"
         },
