@@ -46,7 +46,7 @@
         "Alias": "australiaeast",
         "Continent": "Asia",
         "BatchIndex": 4,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20231022"
         },
@@ -340,7 +340,7 @@
         "Alias": "germanywestcentral",
         "Continent": "Europe",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20231022"
         },
@@ -361,7 +361,7 @@
         "Alias": "israelcentral",
         "Continent": "Europe",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20231022"
         },
@@ -382,7 +382,7 @@
         "Alias": "italynorth",
         "Continent": "Europe",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20231022"
         },
@@ -403,7 +403,7 @@
         "Alias": "japaneast",
         "Continent": "Asia",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20231022"
         },
@@ -550,7 +550,7 @@
         "Alias": "northcentralus",
         "Continent": "US",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20231022"
         },
@@ -655,7 +655,7 @@
         "Alias": "qatarcentral",
         "Continent": "Africa",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20231022"
         },
@@ -676,7 +676,7 @@
         "Alias": "southafricanorth",
         "Continent": "Africa",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20231022"
         },
@@ -907,7 +907,7 @@
         "Alias": "uaenorth",
         "Continent": "Africa",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20231022"
         },
