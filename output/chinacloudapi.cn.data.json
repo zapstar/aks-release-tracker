@@ -67,7 +67,7 @@
         "Alias": "chinanorth3",
         "Continent": "Asia",
         "BatchIndex": 9,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20231022"
         },
