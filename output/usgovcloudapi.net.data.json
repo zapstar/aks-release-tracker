@@ -4,19 +4,19 @@
         "Alias": "usgovarizona",
         "Continent": "US",
         "BatchIndex": 12,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231022"
+            "Version": "v20231029"
         },
         "Recent": [
+            {
+                "Version": "v20231022"
+            },
             {
                 "Version": "v20231015"
             },
             {
                 "Version": "v20231008"
-            },
-            {
-                "Version": "v20231001"
             }
         ]
     },
@@ -46,19 +46,19 @@
         "Alias": "usgovvirginia",
         "Continent": "US",
         "BatchIndex": 12,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231022"
+            "Version": "v20231029"
         },
         "Recent": [
+            {
+                "Version": "v20231022"
+            },
             {
                 "Version": "v20231015"
             },
             {
                 "Version": "v20231008"
-            },
-            {
-                "Version": "v20231001"
             }
         ]
     }
