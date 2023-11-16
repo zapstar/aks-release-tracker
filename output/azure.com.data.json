@@ -193,7 +193,7 @@
         "Alias": "centralus",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20231029"
         },
@@ -741,17 +741,17 @@
         "BatchIndex": 7,
         "InProgress": false,
         "Current": {
-            "Version": "v20231022"
+            "Version": "v20231029"
         },
         "Recent": [
+            {
+                "Version": "v20231022"
+            },
             {
                 "Version": "v20231015"
             },
             {
                 "Version": "v20231008"
-            },
-            {
-                "Version": "v20231001"
             }
         ]
     },
@@ -1014,17 +1014,17 @@
         "BatchIndex": 7,
         "InProgress": false,
         "Current": {
-            "Version": "v20231022"
+            "Version": "v20231029"
         },
         "Recent": [
+            {
+                "Version": "v20231022"
+            },
             {
                 "Version": "v20231015"
             },
             {
                 "Version": "v20231008"
-            },
-            {
-                "Version": "v20231001"
             }
         ]
     },
@@ -1035,17 +1035,17 @@
         "BatchIndex": 7,
         "InProgress": false,
         "Current": {
-            "Version": "v20231022"
+            "Version": "v20231029"
         },
         "Recent": [
+            {
+                "Version": "v20231022"
+            },
             {
                 "Version": "v20231015"
             },
             {
                 "Version": "v20231008"
-            },
-            {
-                "Version": "v20231001"
             }
         ]
     },
