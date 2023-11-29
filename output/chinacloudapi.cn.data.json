@@ -6,17 +6,17 @@
         "BatchIndex": 9,
         "InProgress": false,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -67,7 +67,7 @@
         "Alias": "chinanorth3",
         "Continent": "Asia",
         "BatchIndex": 9,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20231105"
         },
