@@ -25,19 +25,19 @@
         "Alias": "australiacentral2",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -67,19 +67,19 @@
         "Alias": "australiasoutheast",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -109,19 +109,19 @@
         "Alias": "brazilsoutheast",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -151,19 +151,19 @@
         "Alias": "canadaeast",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -298,19 +298,19 @@
         "Alias": "francesouth",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -424,19 +424,19 @@
         "Alias": "japanwest",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -445,19 +445,19 @@
         "Alias": "jioindiacentral",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -508,19 +508,19 @@
         "Alias": "koreasouth",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -634,19 +634,19 @@
         "Alias": "norwaywest",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -760,19 +760,19 @@
         "Alias": "southeastasia",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -781,19 +781,19 @@
         "Alias": "southindia",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -802,19 +802,19 @@
         "Alias": "spaincentral",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
@@ -886,19 +886,19 @@
         "Alias": "switzerlandwest",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231029"
+            "Version": "v20231105"
         },
         "Recent": [
+            {
+                "Version": "v20231029"
+            },
             {
                 "Version": "v20231022"
             },
             {
                 "Version": "v20231015"
-            },
-            {
-                "Version": "v20231008"
             }
         ]
     },
