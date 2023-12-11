@@ -109,7 +109,7 @@
         "Alias": "brazilsoutheast",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20231105"
         },
@@ -634,7 +634,7 @@
         "Alias": "norwaywest",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20231105"
         },
