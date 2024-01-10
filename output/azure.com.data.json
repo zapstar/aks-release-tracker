@@ -903,6 +903,27 @@
         ]
     },
     {
+        "Name": "Taiwan North West",
+        "Alias": "taiwannorthwest",
+        "Continent": "Asia",
+        "BatchIndex": 6,
+        "InProgress": true,
+        "Current": {
+            "Version": "v20240107"
+        },
+        "Recent": [
+            {
+                "Version": "v20231231"
+            },
+            {
+                "Version": "v20231224"
+            },
+            {
+                "Version": "v20231217"
+            }
+        ]
+    },
+    {
         "Name": "UAE Central",
         "Alias": "uaecentral",
         "Continent": "Africa",
