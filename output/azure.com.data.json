@@ -487,19 +487,19 @@
         "Alias": "koreacentral",
         "Continent": "Asia",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231105"
+            "Version": "v20231128"
         },
         "Recent": [
+            {
+                "Version": "v20231105"
+            },
             {
                 "Version": "v20231029"
             },
             {
                 "Version": "v20231022"
-            },
-            {
-                "Version": "v20231015"
             }
         ]
     },
