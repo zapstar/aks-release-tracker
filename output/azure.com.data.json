@@ -174,17 +174,17 @@
         "BatchIndex": 5,
         "InProgress": false,
         "Current": {
-            "Version": "v20231128"
+            "Version": "v20240107"
         },
         "Recent": [
+            {
+                "Version": "v20231128"
+            },
             {
                 "Version": "v20231105"
             },
             {
                 "Version": "v20231029"
-            },
-            {
-                "Version": "v20231022"
             }
         ]
     },
