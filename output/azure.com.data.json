@@ -571,7 +571,7 @@
         "Alias": "northcentralus",
         "Continent": "US",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20240107"
         },
