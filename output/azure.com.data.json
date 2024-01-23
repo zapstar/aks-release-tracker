@@ -1075,19 +1075,19 @@
         "Alias": "westus2",
         "Continent": "US",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20231128"
+            "Version": "v20240107"
         },
         "Recent": [
+            {
+                "Version": "v20231128"
+            },
             {
                 "Version": "v20231105"
             },
             {
                 "Version": "v20231029"
-            },
-            {
-                "Version": "v20231022"
             }
         ]
     },
