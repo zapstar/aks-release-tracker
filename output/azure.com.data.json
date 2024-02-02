@@ -130,7 +130,7 @@
         "Alias": "canadacentral",
         "Continent": "US",
         "BatchIndex": 5,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240123"
         },
