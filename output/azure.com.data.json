@@ -172,7 +172,7 @@
         "Alias": "centralindia",
         "Continent": "Asia",
         "BatchIndex": 5,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240207"
         },
@@ -277,7 +277,7 @@
         "Alias": "francecentral",
         "Continent": "Europe",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20240207"
         },
