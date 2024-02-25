@@ -1056,17 +1056,17 @@
         "BatchIndex": 7,
         "InProgress": false,
         "Current": {
-            "Version": "v20240123"
+            "Version": "v20240207"
         },
         "Recent": [
+            {
+                "Version": "v20240123"
+            },
             {
                 "Version": "v20240107"
             },
             {
                 "Version": "v20231128"
-            },
-            {
-                "Version": "v20231105"
             }
         ]
     },
@@ -1075,19 +1075,19 @@
         "Alias": "westus2",
         "Continent": "US",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20240123"
+            "Version": "v20240207"
         },
         "Recent": [
+            {
+                "Version": "v20240123"
+            },
             {
                 "Version": "v20240107"
             },
             {
                 "Version": "v20231128"
-            },
-            {
-                "Version": "v20231105"
             }
         ]
     },
