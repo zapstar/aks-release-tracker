@@ -25,7 +25,7 @@
         "Alias": "australiacentral2",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240207"
         },
@@ -109,7 +109,7 @@
         "Alias": "brazilsoutheast",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240207"
         },
@@ -529,7 +529,7 @@
         "Alias": "malaysiasouth",
         "Continent": "Asia",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240207"
         },
@@ -550,7 +550,7 @@
         "Alias": "mexicocentral",
         "Continent": "US",
         "BatchIndex": 5,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240207"
         },
