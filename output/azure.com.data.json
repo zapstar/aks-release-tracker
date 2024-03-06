@@ -382,7 +382,7 @@
         "Alias": "italynorth",
         "Continent": "Europe",
         "BatchIndex": 6,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240226"
         },
