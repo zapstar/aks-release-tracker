@@ -25,7 +25,7 @@
         "Alias": "chinaeast3",
         "Continent": "Asia",
         "BatchIndex": 10,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20240207"
         },
