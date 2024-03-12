@@ -760,7 +760,7 @@
         "Alias": "southeastasia",
         "Continent": "Asia",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240207"
         },
@@ -1033,7 +1033,7 @@
         "Alias": "westcentralus",
         "Continent": "US",
         "BatchIndex": 1,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240226"
         },
