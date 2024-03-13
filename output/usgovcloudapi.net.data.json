@@ -4,7 +4,7 @@
         "Alias": "usgovarizona",
         "Continent": "US",
         "BatchIndex": 12,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240226"
         },
