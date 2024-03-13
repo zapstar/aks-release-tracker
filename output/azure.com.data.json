@@ -529,7 +529,7 @@
         "Alias": "malaysiasouth",
         "Continent": "Asia",
         "BatchIndex": 6,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
             "Version": "v20240226"
         },
