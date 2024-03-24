@@ -949,7 +949,7 @@
         "Alias": "uaecentral",
         "Continent": "Africa",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240226"
         },
