@@ -193,7 +193,7 @@
         "Alias": "centralus",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240331"
         },
@@ -634,7 +634,7 @@
         "Alias": "norwaywest",
         "Continent": "Europe",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240331"
         },
@@ -739,7 +739,7 @@
         "Alias": "southcentralus",
         "Continent": "US",
         "BatchIndex": 7,
-        "InProgress": true,
+        "InProgress": false,
         "Current": {
             "Version": "v20240331"
         },
