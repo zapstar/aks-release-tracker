@@ -88,19 +88,19 @@
         "Alias": "brazilsouth",
         "Continent": "US",
         "BatchIndex": 5,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20240331"
+            "Version": "v20240411"
         },
         "Recent": [
+            {
+                "Version": "v20240331"
+            },
             {
                 "Version": "v20240317"
             },
             {
                 "Version": "v20240226"
-            },
-            {
-                "Version": "v20240207"
             }
         ]
     },
