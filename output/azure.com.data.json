@@ -930,17 +930,17 @@
         "BatchIndex": 6,
         "InProgress": false,
         "Current": {
-            "Version": "v20240331"
+            "Version": "v20240411"
         },
         "Recent": [
+            {
+                "Version": "v20240331"
+            },
             {
                 "Version": "v20240317"
             },
             {
                 "Version": "v20240226"
-            },
-            {
-                "Version": "v20240207"
             }
         ]
     },
@@ -949,19 +949,19 @@
         "Alias": "uaecentral",
         "Continent": "Africa",
         "BatchIndex": 7,
-        "InProgress": false,
+        "InProgress": true,
         "Current": {
-            "Version": "v20240331"
+            "Version": "v20240411"
         },
         "Recent": [
+            {
+                "Version": "v20240331"
+            },
             {
                 "Version": "v20240317"
             },
             {
                 "Version": "v20240226"
-            },
-            {
-                "Version": "v20240207"
             }
         ]
     },
